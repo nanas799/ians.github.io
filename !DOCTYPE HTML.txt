@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pesan Spesial untuk Kamu</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #fce4ec;
+            color: #880e4f;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #d81b60;
+        }
+        .container {
+            margin: auto;
+            max-width: 600px;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            border-radius: 10px;
+        }
+        img {
+            width: 100%;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+        .button {
+            background-color: #880e4f;
+            color: white;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        .button:hover {
+            background-color: #d81b60;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hai Sayang ❤️</h1>
+        <p>Aku cuma mau bilang kalau aku sayang banget sama kamu. Kamu adalah orang yang paling spesial di hidupku, dan aku bersyukur bisa memiliki kamu. Semoga hari-harimu selalu bahagia, ya!</p>
+        
+        <img src="https://i.pinimg.com/564x/47/b5/d9/47b5d98cc46e6073e0b872d7279c0b6e.jpg" alt="FOR YOU">
+        
+        <p>Selalu ingat ya, aku akan selalu ada buat kamu apapun yang terjadi. Love you! 💖</p>
+        <a href="https://i.pinimg.com/564x/7f/1a/d0/7f1ad0908d31d68f6f2a4b1fdbbef310.jpg">
+            <button class="button">Klik di sini untuk kejutan ✨</button>
+        </a>
+    </div>
+</body>
+</html>
